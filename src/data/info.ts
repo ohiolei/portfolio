@@ -26,6 +26,13 @@ place.
 
   projects: [
     {
+      title: "Oanwtech",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1693040953/oawn_dfdx6u.jpg",
+      githubUrl: "",
+      liveUrl: "https://oanwtech.com/",
+    },
+    {
       title: "Tasued-Cbt-Practice",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1692876919/portfolio/tascreen_yea7jy.jpg",
