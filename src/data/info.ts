@@ -6,7 +6,7 @@ export const info = {
   that possess a wide range of abilities which combines innovative art, design principles, optimization of
   website performance, investigation and troubleshooting issues ensuring smoother processes for
   every end user.
-  Furthermore, my expert knowledge of Adobe Creative Suite, HTML, CSS, Bootstrap, Tailwind, C#, PHP, Vue.Js, Laravael and ASP.NET will
+  Furthermore, my expert knowledge of Adobe Creative Suite, HTML, CSS, Bootstrap, Tailwind, C#, PHP, Javascript, Vue.Js, Laravael and ASP.NET will
   allow me to play a crucial role in the implementation of your design and ideas.
   
   `,
@@ -29,15 +29,15 @@ place.
     {
       title: "Artisan Go",
       isFeatured: true,
-      thumbnail: "https://res.cloudinary.com/db7wwc9ex/image/upload/v1693040953/oawn_dfdx6u.jpg",
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1693932455/Screenshot_2023-09-05_174128_r4wkj4.png",
       githubUrl: "https://github.com/ohiolei/artisan_go_frontend",
       liveUrl: "",
     },
     {
       title: "Artisan Go API's",
       isFeatured: true,
-      thumbnail: "",
-      githubUrl: "https://github.com/ohiolei/artisan_go_backend",
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1693932736/si4cn12eu9krq7akpvwk_eudije.webp",
+      githubUrl: "",
       liveUrl: "",
     },
     // {
