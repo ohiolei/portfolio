@@ -45,7 +45,7 @@ place.
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1713472990/sycbf2ooifod8maq1cqn.png",
       githubUrl: "https://github.com/ohiolei/onlineefiko",
-      liveUrl: "https://onlineefiko.xyzstaging.com/dshb-sub-management",
+      liveUrl: "https://onlineefiko.xyzstaging.com",
     },
     // {
     //   title: "Yofte Ecommerce Landing Page",
