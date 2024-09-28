@@ -47,6 +47,20 @@ place.
       githubUrl: "https://github.com/ohiolei/onlineefiko",
       liveUrl: "https://onlineefiko.xyzstaging.com",
     },
+    {
+      title: "Tasued website",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1727561816/Screenshot_2024-09-28_230858_wqzuof.png",
+      githubUrl: "",
+      liveUrl: "https://tasued.edu.ng/",
+    },
+    {
+      title: "IMT",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1727561711/Screenshot_2024-09-28_230821_qasdfb.png",
+      githubUrl: "",
+      liveUrl: "https://www.imtcomputer.net/",
+    },
     // {
     //   title: "Yofte Ecommerce Landing Page",
     //   isFeatured: true,
