@@ -69,7 +69,7 @@ place.
       liveUrl: "https://v4.tasued.edu.ng/login",
     },
     {
-      title: "Lifemachines Landing Page",
+      title: "V3 Tasued Portal",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1727868244/Screenshot_2024-10-02_122319_dmlobx.png",
       githubUrl: "",
