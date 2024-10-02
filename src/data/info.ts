@@ -44,7 +44,7 @@ place.
       title: "Online Efiko",
       isFeatured: true,
       thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1713472990/sycbf2ooifod8maq1cqn.png",
-      githubUrl: "https://github.com/ohiolei/onlineefiko",
+      githubUrl: "",
       liveUrl: "https://onlineefiko.xyzstaging.com",
     },
     {
