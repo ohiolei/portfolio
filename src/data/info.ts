@@ -27,18 +27,11 @@ place.
 
   projects: [
     {
-      title: "Artisan Go",
+      title: "LMS TASCE",
       isFeatured: true,
-      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1693932455/Screenshot_2023-09-05_174128_r4wkj4.png",
-      githubUrl: "https://github.com/ohiolei/artisan_go_frontend",
-      liveUrl: "",
-    },
-    {
-      title: "Artisan Go API's",
-      isFeatured: true,
-      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1693932736/si4cn12eu9krq7akpvwk_eudije.webp",
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1727875007/Screenshot_2024-10-02_141613_svtxqn.png",
       githubUrl: "",
-      liveUrl: "",
+      liveUrl: "https://lms.tasce.edu.ng/login",
     },
     {
       title: "Online Efiko",
