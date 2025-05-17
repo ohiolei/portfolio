@@ -68,6 +68,13 @@ place.
       githubUrl: "",
       liveUrl: "https://my.tasued.edu.ng/core/auth/index.php",
     },
+     {
+      title: "Fast and Fun",
+      isFeatured: true,
+      thumbnail: "https://res.cloudinary.com/dmuwbftg2/image/upload/v1747508819/Screenshot_2025-05-17_120534_dgjayk.png",
+      githubUrl: "",
+      liveUrl: "https://fastandfun.ca",
+    },
     // {
     //   title: "Wizard Ai",
     //   isFeatured: true,
